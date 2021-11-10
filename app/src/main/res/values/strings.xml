@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Product-Catalog</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="price_product">Precio: $ %1$s</string>
+    <string name="close_alert">Close</string>
+    <string name="an_error_occurred">Ocuarrio un error</string>
+    <string name="all_products">Todos los productos</string>
+</resources>
